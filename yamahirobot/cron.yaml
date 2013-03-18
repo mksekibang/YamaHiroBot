@@ -1,0 +1,4 @@
+cron:
+- description: hoursjob
+  url: /hours/
+  schedule: every 20 minutes
